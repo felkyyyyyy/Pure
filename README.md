@@ -1,8 +1,8 @@
-## Pure: Enhanced Minecraft Experience with Optimized Mods
+# **Pure: Enhanced Minecraft Experience with Optimized Mods**
 
 
 
-- Embark on a journey into the extraordinary realm of Pure, a meticulously crafted mod compilation tailored to elevate your vanilla Minecraft adventure. Immerse yourself in a world where optimization meets innovation, delivering not only visually stunning effects through BSL Shaders and Complementary Shaders - Reimagined but also introducing unique features to seamlessly enhance your gameplay.
+- **Embark on a journey into the extraordinary realm of Pure, a meticulously crafted mod compilation tailored to elevate your vanilla Minecraft adventure. Immerse yourself in a world where optimization meets innovation, delivering not only visually stunning effects through BSL Shaders and Complementary Shaders - Reimagined but also introducing unique features to seamlessly enhance your gameplay.**
 
 
 ## Key Features of Pure:

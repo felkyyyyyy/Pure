@@ -1,4 +1,4 @@
-# **Pure: Enhanced Minecraft Experience with Optimized Mods**
+# **[Pure](https://modrinth.com/modpack/pure): Enhanced Minecraft Experience with Optimized Mods**
 
 
 
